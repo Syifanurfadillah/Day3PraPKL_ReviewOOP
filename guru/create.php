@@ -51,7 +51,7 @@
                         <input type="text" class="form-control" name="nama">
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputEmail1">Alamat</label>
+                        <label for="exampleInputEmail1">Alamatt</label>
                         <input type="text" class="form-control" name="alamat">
                     </div>
                     <button type="submit" name="save" class="btn btn-primary">Simpan</button>
