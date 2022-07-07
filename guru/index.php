@@ -36,7 +36,7 @@
         <div class="container">
         <div class="card">
             <div class="card-header">
-                <h3>Data Guru</h3>
+                <h3>Data Guruu</h3>
                 <center><a href="create.php" class="btn btn-primary">Tambah Data</a></center>
             </div>
             <div class="card-body">
